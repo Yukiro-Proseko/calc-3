@@ -135,9 +135,6 @@ go run ./cmd/calc_service/...
 Проект покрыт тестами
 </details>
 
-## Схема
-![Схема всего проекта](/docs/schema.png)
-
 ## Примеры:
 ### Все примеры http запросов находятся в папке [/docs/examples](./docs/examples)
 
